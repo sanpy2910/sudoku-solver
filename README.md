@@ -19,10 +19,10 @@ This project is a Sudoku solver that utilizes machine learning techniques and Se
 1. Clone the repository:git clone https://github.com/santoshkanumuri/sudoku-solver.git
 2. Navigate to the project directory: cd sudoku-solver
 3. Install the required Python packages: pip install -r requirements.txt
-4. ## Usage
+## Usage
 
 1. Run the main UI script:python main.py
-2. 2. Select the desired mode from the UI options.
+2. Select the desired mode from the UI options.
 3. Follow the prompts and provide the required inputs based on the selected mode.
 
 ## Machine Learning Approach
